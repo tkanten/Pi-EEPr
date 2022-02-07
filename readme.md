@@ -75,5 +75,3 @@ A seperate bot should be created for the Server and RPi.
 	password_file C:\<path\to\passwd\file>\passwd.conf	
 4. Mosquitto is ready to rumble! Run the following command to start it with a verbose output
 	mosquitto -c mosquitto.conf -v
-
-Test
